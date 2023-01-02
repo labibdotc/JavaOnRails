@@ -1,0 +1,6 @@
+model1,1,sijnfeij,382983,
+model1,2,Labib,10,
+model1,3,Labib,10,
+model1,4,Labib,10,
+model1,5,Labib,10,
+model1,6,six,38,

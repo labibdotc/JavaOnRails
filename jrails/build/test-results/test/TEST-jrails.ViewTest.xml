@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jrails.ViewTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-11-22T02:57:19" hostname="Abdulrahmans-MacBook-Air.local" time="0.006">
+  <properties/>
+  <testcase name="empty" classname="jrails.ViewTest" time="0.0"/>
+  <testcase name="test1" classname="jrails.ViewTest" time="0.001"/>
+  <testcase name="booktest" classname="jrails.ViewTest" time="0.005"/>
+  <system-out><![CDATA[<p><strong>Title:</strong>Programming in the age of Literature</p><p><strong>Author:</strong>Charles Dickens</p><p><strong>Copies:</strong>999</p><a href="/edit?id=0">Edit</a> | <a href="/">Back</a>
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

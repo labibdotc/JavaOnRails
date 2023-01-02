@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jrails.HtmlTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-11-22T02:57:19" hostname="Abdulrahmans-MacBook-Air.local" time="0.011">
+  <properties/>
+  <testcase name="empty" classname="jrails.HtmlTest" time="0.009"/>
+  <testcase name="test2" classname="jrails.HtmlTest" time="0.001"/>
+  <testcase name="test3" classname="jrails.HtmlTest" time="0.0"/>
+  <system-out><![CDATA[<p>heeh</p>
+<p>Text of this</p><br/><p><div></div></p>
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
